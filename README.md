@@ -6,4 +6,5 @@ My template for opengl in nim
 - Nimble should automatically install the required dependencies
 ```bash
 nimble build
-./built/opengl_template```
+./built/opengl_template
+```
